@@ -1,0 +1,11 @@
+
+td {
+    border: 1px solid blueviolet;
+}
+table {
+    color: white;
+    font-size: 10px;
+    font-family: sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 6%, rgba(2,1,42,1) 8%, rgba(9,9,121,1) 35%, rgba(1,168,234,1) 90%, rgba(0,212,255,1) 100%);
+}
